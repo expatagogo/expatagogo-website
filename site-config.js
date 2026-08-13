@@ -1,5 +1,7 @@
 window.EXPATAGOGO = {
-  // Leave blank until the new 4K upload finishes.
-  // Russ will send the YouTube link and ChatGPT will return an updated file.
-  latestYouTubeVideoId: ""
+  // Episode 3 is the newest launch episode, so the large homepage player shows it once public.
+  latestYouTubeVideoId: "00QvlkTMgxQ",
+  episode1YouTubeVideoId: "DJl8Ls6uDRM",
+  episode2YouTubeVideoId: "BM8JRAWhadc",
+  episode3YouTubeVideoId: "00QvlkTMgxQ"
 };
